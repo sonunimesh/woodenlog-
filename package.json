@@ -1,0 +1,32 @@
+{
+  "name": "woodenlog",
+  "version": "1.0.1",
+  "description": "Minimalist log node messages module",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonunimesh/woodenlog.git"
+  },
+  "keywords": [
+    "log",
+    "woodenlog",
+    "log",
+    "messages"
+  ],
+  "author": "Nimesh S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonunimesh/woodenlog/issues"
+  },
+  "homepage": "https://github.com/sonunimesh/woodenlog#readme",
+  "dependencies": {
+    "ansi-styles": "^2.2.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
